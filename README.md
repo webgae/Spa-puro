@@ -40,20 +40,35 @@ Una aplicación web de página única (SPA) que integra la API de Blogger para m
 └── index.html
 
 ## Uso
--La navegación se realiza a través de los enlaces del menú
--En la sección Blog:
--Filtra posts por categorías
--Navega entre páginas de posts
--Haz clic en "Ver más" para leer el post completo
--Los posts individuales muestran:
--Título
--Fecha de publicación
--Contenido completo con imágenes
--Botón para volver al blog
--Personalización
--Puedes personalizar:
+- La navegación se realiza a través de los enlaces del menú
+- En la sección Blog:
+- Filtra posts por categorías
+- Navega entre páginas de posts
+- Haz clic en "Ver más" para leer el post completo
+- Los posts individuales muestran:
+- Título
+- Fecha de publicación
+- Contenido completo con imágenes
+- Botón para volver al blog
+- Personalización
+- Puedes personalizar:
 
--Número de posts por página (POSTS_POR_PAGINA en blogger-api.js)
--Estilos visuales (css/styles.css)
--Contenido de páginas estáticas (archivos en js/pages/)
--Header y footer (header.html y footer.html)
+## Equipo
+Contamos con un equipo especializado de:
+- Diseñadores web
+- Desarrolladores
+- Especialistas en marketing
+- Estrategas digitales
+
+## Servicios
+- Desarrollo web personalizado
+- Diseño UI/UX
+- Optimización de rendimiento
+- Consultoría web
+- Soluciones WordPress
+
+## Contacto
+Para más información sobre nuestros servicios y soluciones web, contáctanos.
+
+## Licencia
+Todos los derechos reservados © Webgae
